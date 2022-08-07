@@ -1,3 +1,5 @@
+// @ts-check
+//commment that enable. type checking for javascript in vs code
 import React,{useRef, useEffect} from 'react'
 import PropTypes from 'prop-types'
 
